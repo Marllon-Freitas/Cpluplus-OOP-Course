@@ -1,5 +1,4 @@
 /*
-/*
 Amplie a classe Jogo da questão anterior de forma a permitir a criação de objetos
 da classe Jogo com uma quantidade de horas jogadas diferente de zero. Ajuste
 todos os construtores e métodos para trabalhar de forma correta com tempo e
